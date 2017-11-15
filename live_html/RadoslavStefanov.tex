@@ -1,0 +1,119 @@
+% resume.tex
+%
+% (c) 2011 Matthew Boedicker <mboedick@mboedick.org> (original author) http://mboedick.org
+% (c) 20013 Radoslav Stefanov <radoslav@rstefanov.info> http://www.rstefanov.info
+%
+%This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/1.0/ or send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+\documentclass[letterpaper,11pt]{article}
+
+%-----------------------------------------------------------
+\usepackage[empty]{fullpage}
+\usepackage{color}
+\usepackage{hyperref}
+\definecolor{mygrey}{gray}{0.80}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Adjust margins to 0.5in on all sides
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.0in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\large \colorbox{mygrey}{\begin{minipage}{\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{7.0in}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+
+\begin{document}
+
+\begin{tabular*}{7.5in}{l@{\extracolsep{\fill}}r}
+\textbf{\large Radoslav Stefanov}  & 359 876 305 776\\
+Izgrev&
+\href{mailto:radoslav@rstefanov.info}{radoslav@rstefanov.info} \\
+Sofia, BG&
+\href{http://resume.rstefanov.info}{resume.rstefanov.info} \\
+\end{tabular*}
+\\
+
+\vspace{0.1in}
+
+\resheading{Work Experience}
+\begin{itemize}
+\item
+  \ressubheading{Hostopia Bulgaria / Deluxe Corp}{Sofia, BG}{Linux Systems Administrator and Release Engineering tooling}{February 2014 - Present}
+	\begin{itemize}
+								\resitem{Provide automation, management, security, performance-tuning and last tier support for approximately 1400 Ubuntu Linux servers.}
+                \resitem{Architecture, design, deployment and support for large GitLab EE cluster.}
+								\resitem{Backup and disaster recovery tooling and procedures for our whole infrastructure (dev, qa, staging and production).}
+								\resitem{Extensive development for our in-house perl based site builder.}
+								\resitem{Implemented CI/CD pipliene accross the board.}
+								\resitem{Design and implementation of Ansible-based configuration management and provisioning for all new server deployments.}
+								\resitem{Docker implementation, automation, upgrade and disaster recovery.}
+								\resitem{Platform migration from Leacy Ubuntu 6.06LTS to modern Ubuntu 16.04LTS servers architecture.}
+	\end{itemize}
+\item
+	\ressubheading{Reflective Solutions}{Sofia, BG}{L2 Tech Support Engineer}{February 2013 - February 2014}
+	\begin{itemize}
+                \resitem{Provide support for medium sized Windows domain infrastructure.}
+                \resitem{Help managing Active Directory and Microsoft Exchange clusters.}
+                \resitem{Configure and	maintain stress testing, performance management and qa platform for web applications.}
+	\end{itemize}
+
+\item
+	\ressubheading{DirectHost.BG/HostLine.BG}{Sofia, BG}{Linux Systems Administrator}{May 2011 - December 2012}
+	\begin{itemize}
+                \resitem{General and On-Call duties in a large (20.5M views/day) and fast-paced Drupal web environment.}
+                \resitem{Designed and deployed multi-node Graphite cluster for metric storage and display; began alerting of off metrics.}
+                \resitem{Proof of concept for migration from Nagios with NagioSQL configuration to Icinga with Puppet-generated configuration.}
+	\end{itemize}
+
+\item
+	\ressubheading{BgMreja}{Sofia, BG}{Technical Support}{August 2009 - April 2011}
+	\begin{itemize}
+                \resitem{Technical support dutties over the phone.}
+	\end{itemize}
+\end{itemize}
+
+\resheading{Education}
+\begin{itemize}
+\item
+	\ressubheading{Epping Forest College}{London, UK}{ICT, Maths and Further Maths}{January 2006 - October 2008}
+
+\item
+  \ressubheading{GPCHE Petar Bogdan}{Montana, BG}{Dual Major, English and German languages}{September 2000 - June 2004}
+\end{itemize}
+
+\resheading{Skills}
+
+\begin{description}
+\item[Languages:]
+Current languages: Bash (six years). Basic or previous knowledge of PHP, Perl.
+% using linux since 2002. Admin since 2011.
+\item[Operating Systems:]
+Six years experience in use and administration of Linux; four years experience architecting and administering production Linux servers and applications.
+Primarily CentOS/RedHat/Ubuntu on servers and AWS, Arch Linux and Gentoo Linux personally. Experience with Vyatta Network OS/VyOS, Cisco CatOS and IOS.
+\item[Software:]
+Many Amazon (AWS) offerings. Vault, Consul, Packer, and related tools. Jenkins. GitLab. Git. Docker. Ansible. Puppet. Graphite, Logstash/Elasticsearch, rsyslog, Nagios/Zabbix/Icinga. MySQL, PostgreSQL. Apache httpd, Nginx.
+Former experience with Solr, Postfix, ISC BIND9, ISC dhcpd, FreeRADIUS, Asterisk, OpenLDAP, StrongSwan.
+
+\item[Platforms:]
+AWS. Experience with many datacenter technologies: Xen, VMWare, most Enterprise-grade server hardware, F5 Big-IP Load Balancers, network hardware, embedded devices, Meru and BlueSocket wireless hardware. Experience in datacenter operations and physical infrastructure (copper/fiber/power) management.
+\end{description}
+
+\resheading{Open Source Projects and Contributions}
+\begin{description}
+\item{See \href{http://resume.rstefanov.info}{resume.rstefanov.info} for highlights or \href{https://github.com/radoslav-stefanov}{https://github.com/radoslav-stefanov}.}
+\end{description}
+
+\end{document}

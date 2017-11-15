@@ -1,0 +1,110 @@
+Radoslav Stefanov
+Sofia
+Bulgaria
+
++359 876 305 776
+radoslav@rstefanov.info
+resume.rstefanov.info
+
+Work Experience
+
+-   -------------------------------------------------------------- -------------------------
+      Hostopia Bulgaria / Deluxe Corp                                                Sofia, BG
+      Linux Systems Administrator and Release Engineering tooling      February 2014 - Present
+                                                                     
+      -------------------------------------------------------------- -------------------------
+
+    -   Provide automation, management, security, performance-tuning and
+        last tier support for approximately 1400 Ubuntu Linux servers.
+    -   Architecture, design, deployment and support for large GitLab EE
+        cluster.
+    -   Backup and disaster recovery tooling and procedures for our
+        whole infrastructure (dev, qa, staging and production).
+    -   Extensive development for our in-house perl based site builder.
+    -   Implemented CI/CD pipliene accross the board.
+    -   Design and implementation of Ansible-based configuration
+        management and provisioning for all new server deployments.
+    -   Docker implementation, automation, upgrade and disaster
+        recovery.
+    -   Platform migration from Leacy Ubuntu 6.06LTS to modern Ubuntu
+        16.04LTS servers architecture.
+
+-   --------------------------- -------------------------------
+      Reflective Solutions                              Sofia, BG
+      L2 Tech Support Engineer      February 2013 - February 2014
+                                  
+      --------------------------- -------------------------------
+
+    -   Provide support for medium sized Windows domain infrastructure.
+    -   Help managing Active Directory and Microsoft Exchange clusters.
+    -   Configure and maintain stress testing, performance management
+        and qa platform for web applications.
+
+-   ------------------------------- --------------------------
+      DirectHost.BG/HostLine.BG                        Sofia, BG
+      Linux Systems Administrator       May 2011 - December 2012
+                                      
+      ------------------------------- --------------------------
+
+    -   General and On-Call duties in a large (20.5M views/day) and
+        fast-paced Drupal web environment.
+    -   Designed and deployed multi-node Graphite cluster for metric
+        storage and display; began alerting of off metrics.
+    -   Proof of concept for migration from Nagios with NagioSQL
+        configuration to Icinga with Puppet-generated configuration.
+
+-   -------------------- --------------------------
+      BgMreja                               Sofia, BG
+      Technical Support      August 2009 - April 2011
+                           
+      -------------------- --------------------------
+
+    -   Technical support dutties over the phone.
+
+Education
+
+-   ------------------------------- -----------------------------
+      Epping Forest College                              London, UK
+      ICT, Maths and Further Maths      January 2006 - October 2008
+                                      
+      ------------------------------- -----------------------------
+
+-   ------------------------------------------- ----------------------------
+      GPCHE Petar Bogdan                                           Montana, BG
+      Dual Major, English and German languages      September 2000 - June 2004
+                                                  
+      ------------------------------------------- ----------------------------
+
+Skills
+
+ Languages: 
+    Current languages: Bash (six years). Basic or previous knowledge of
+    PHP, Perl.
+
+ Operating Systems: 
+    Six years experience in use and administration of Linux; four years
+    experience architecting and administering production Linux servers
+    and applications. Primarily CentOS/RedHat/Ubuntu on servers and AWS,
+    Arch Linux and Gentoo Linux personally. Experience with Vyatta
+    Network OS/VyOS, Cisco CatOS and IOS.
+
+ Software: 
+    Many Amazon (AWS) offerings. Vault, Consul, Packer, and related
+    tools. Jenkins. GitLab. Git. Docker. Ansible. Puppet. Graphite,
+    Logstash/Elasticsearch, rsyslog, Nagios/Zabbix/Icinga. MySQL,
+    PostgreSQL. Apache httpd, Nginx. Former experience with Solr,
+    Postfix, ISC BIND9, ISC dhcpd, FreeRADIUS, Asterisk, OpenLDAP,
+    StrongSwan.
+
+ Platforms: 
+    AWS. Experience with many datacenter technologies: Xen, VMWare, most
+    Enterprise-grade server hardware, F5 Big-IP Load Balancers, network
+    hardware, embedded devices, Meru and BlueSocket wireless hardware.
+    Experience in datacenter operations and physical infrastructure
+    (copper/fiber/power) management.
+
+Open Source Projects and Contributions
+
+ 
+    See resume.rstefanov.info for highlights or
+    https://github.com/radoslav-stefanov.

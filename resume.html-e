@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="iso-8859-1" ?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html xmlns="http://www.w3.org/1999/xhtml"  
+> 
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="resume.tex" /> 
+<link rel="stylesheet" type="text/css" href="resume.css" /> 
+</head><body 
+>
+<div class="tabular"> <table id="TBL-1" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-1-1g"><col 
+id="TBL-1-1" /><col 
+id="TBL-1-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-1-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-1-1"  
+class="td10"><span 
+class="cmbx-12">Radoslav Stefanov</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-1-1-2"  
+class="td01">      359 876 305 776</td></tr><tr  
+ style="vertical-align:baseline;" id="TBL-1-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-2-1"  
+class="td10">Izgrev &#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-1-2-2"  
+class="td01"><a 
+href="mailto:radoslav@rstefanov.info" >radoslav@rstefanov.info</a></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-1-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-3-1"  
+class="td10">Sofia, BG                  &#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-1-3-2"  
+class="td01">  <a 
+href="http://resume.rstefanov.info" >resume.rstefanov.info</a></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-1-4-"><td  style="white-space:nowrap; text-align:left;" id="TBL-1-4-1"  
+class="td10">                    &#x00A0;</td></tr></table></div>
+<div 
+class="colorbox" id="colorbox1"><div class="minipage"><span 
+class="cmbx-12">Work Experience</span>
+</div></div>
+     <ul class="itemize1">
+     <li class="itemize"><!--tex4ht:inline--><div class="tabular"> <table id="TBL-2" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-2-1g"><col 
+id="TBL-2-1" /><col 
+id="TBL-2-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-2-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-2-1-1"  
+class="td10"><span 
+class="cmbx-10x-x-109">Hostopia Bulgaria / Deluxe Corp                          </span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-2-1-2"  
+class="td01">            Sofia, BG</td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-2-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-2-2-1"  
+class="td10"><span 
+class="cmti-10x-x-109">Linux Systems Administrator and Release Engineering tooling</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-2-2-2"  
+class="td01"><span 
+class="cmti-10x-x-109">February 2014 - Present</span></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-2-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-2-3-1"  
+class="td10">                                                    &#x00A0;</td></tr></table>
+     </div>
+          <ul class="itemize2">
+          <li class="itemize">
+          Provide
+          automation,
+          management,
+          security,
+          performance-tuning
+          and
+          last
+          tier
+          support
+          for
+          approximately
+          1400
+          Ubuntu
+          Linux
+          servers.
+          </li>
+          <li class="itemize">
+          Architecture,
+          design,
+          deployment
+          and
+          support
+          for
+          large
+          GitLab
+          EE
+          cluster.
+          </li>
+          <li class="itemize">
+          Backup
+          and
+          disaster
+          recovery
+          tooling
+          and                                                                                          
+                                                                                                       
+          procedures
+          for
+          our
+          whole
+          infrastructure
+          (dev,
+          qa,
+          staging
+          and
+          production).
+          </li>
+          <li class="itemize">
+          Extensive
+          development
+          for
+          our
+          in-house
+          perl
+          based
+          site
+          builder.
+          </li>
+          <li class="itemize">
+          Implemented
+          CI/CD
+          pipliene
+          accross
+          the
+          board.
+          </li>
+          <li class="itemize">
+          Design
+          and
+          implementation
+          of
+          Ansible-based
+          configuration
+          management
+          and
+          provisioning
+          for
+          all
+          new
+          server
+          deployments.
+          </li>                                                                                             
+                                                                                                       
+          <li class="itemize">
+          Docker
+          implementation,
+          automation,
+          upgrade
+          and
+          disaster
+          recovery.
+          </li>
+          <li class="itemize">
+          Platform
+          migration
+          from
+          Leacy
+          Ubuntu
+          6.06LTS
+          to
+          modern
+          Ubuntu
+          16.04LTS
+          servers
+          architecture.
+          </li></ul>
+     </li>
+     <li class="itemize"><!--tex4ht:inline--><div class="tabular"> <table id="TBL-3" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-3-1g"><col 
+id="TBL-3-1" /><col 
+id="TBL-3-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-3-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-3-1-1"  
+class="td10"><span 
+class="cmbx-10x-x-109">Reflective Solutions   </span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-3-1-2"  
+class="td01">                  Sofia, BG</td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-3-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-3-2-1"  
+class="td10"><span 
+class="cmti-10x-x-109">L2 Tech Support Engineer</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-3-2-2"  
+class="td01"><span 
+class="cmti-10x-x-109">February 2013 - February 2014</span></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-3-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-3-3-1"  
+class="td10">                      &#x00A0;</td></tr></table>
+     </div>
+          <ul class="itemize2">
+          <li class="itemize">
+          Provide
+          support
+          for
+          medium
+          sized
+          Windows
+          domain
+          infrastructure.
+          </li>
+          <li class="itemize">
+          Help
+          managing
+          Active
+          Directory
+          and
+          Microsoft
+          Exchange
+          clusters.                                                                                      
+                                                                                                       
+          </li>
+          <li class="itemize">
+          Configure
+          and
+          maintain
+          stress
+          testing,
+          performance
+          management
+          and
+          qa
+          platform
+          for
+          web
+          applications.
+          </li></ul>
+     </li>
+     <li class="itemize"><!--tex4ht:inline--><div class="tabular"> <table id="TBL-4" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-4-1g"><col 
+id="TBL-4-1" /><col 
+id="TBL-4-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-4-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-4-1-1"  
+class="td10"><span 
+class="cmbx-10x-x-109">DirectHost.BG/HostLine.BG</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-4-1-2"  
+class="td01">               Sofia, BG</td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-4-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-4-2-1"  
+class="td10"><span 
+class="cmti-10x-x-109">Linux Systems Administrator      </span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-4-2-2"  
+class="td01"><span 
+class="cmti-10x-x-109">May 2011 - December 2012</span></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-4-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-4-3-1"  
+class="td10">                             &#x00A0;</td></tr></table>
+     </div>
+          <ul class="itemize2">
+          <li class="itemize">
+          General
+          and
+          On-Call
+          duties
+          in
+          a
+          large
+          (20.5M
+          views/day)
+          and
+          fast-paced
+          Drupal
+          web
+          environment.
+          </li>
+          <li class="itemize">
+          Designed
+          and
+          deployed
+          multi-node
+          Graphite
+          cluster
+          for
+          metric
+          storage
+          and                                                                                          
+                                                                                                       
+          display;
+          began
+          alerting
+          of
+          off
+          metrics.
+          </li>
+          <li class="itemize">
+          Proof
+          of
+          concept
+          for
+          migration
+          from
+          Nagios
+          with
+          NagioSQL
+          configuration
+          to
+          Icinga
+          with
+          Puppet-generated
+          configuration.
+          </li></ul>
+     </li>
+     <li class="itemize"><!--tex4ht:inline--><div class="tabular"> <table id="TBL-5" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-5-1g"><col 
+id="TBL-5-1" /><col 
+id="TBL-5-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-5-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-5-1-1"  
+class="td10"><span 
+class="cmbx-10x-x-109">BgMreja        </span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-5-1-2"  
+class="td01">             Sofia, BG</td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-5-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-5-2-1"  
+class="td10"><span 
+class="cmti-10x-x-109">Technical Support</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-5-2-2"  
+class="td01"><span 
+class="cmti-10x-x-109">August 2009 - April 2011</span></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-5-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-5-3-1"  
+class="td10">               &#x00A0;</td></tr></table>
+     </div>
+          <ul class="itemize2">
+          <li class="itemize">
+          Technical
+          support
+          dutties
+          over
+          the
+          phone.
+          </li></ul>
+     </li></ul>
+<div 
+class="colorbox" id="colorbox2"><div class="minipage"><span 
+class="cmbx-12">Education</span>
+</div></div>
+     <ul class="itemize1">
+     <li class="itemize"><!--tex4ht:inline--><div class="tabular"> <table id="TBL-6" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-6-1g"><col 
+id="TBL-6-1" /><col 
+id="TBL-6-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-6-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-6-1-1"  
+class="td10"><span 
+class="cmbx-10x-x-109">Epping Forest College      </span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-6-1-2"  
+class="td01">              London, UK</td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-6-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-6-2-1"  
+class="td10"><span 
+class="cmti-10x-x-109">ICT, Maths and Further Maths</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-6-2-2"  
+class="td01"><span 
+class="cmti-10x-x-109">January 2006 - October 2008</span></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-6-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-6-3-1"  
+class="td10">                          &#x00A0;</td></tr></table>
+     </div>
+     </li>
+     <li class="itemize"><!--tex4ht:inline--><div class="tabular"> <table id="TBL-7" class="tabular" 
+cellspacing="0" cellpadding="0"  
+><colgroup id="TBL-7-1g"><col 
+id="TBL-7-1" /><col 
+id="TBL-7-2" /></colgroup><tr  
+ style="vertical-align:baseline;" id="TBL-7-1-"><td  style="white-space:nowrap; text-align:left;" id="TBL-7-1-1"  
+class="td10"><span 
+class="cmbx-10x-x-109">GPCHE Petar Bogdan                    </span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-7-1-2"  
+class="td01">            Montana, BG</td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-7-2-"><td  style="white-space:nowrap; text-align:left;" id="TBL-7-2-1"  
+class="td10"><span 
+class="cmti-10x-x-109">Dual Major, English and German languages</span>&#x00A0;</td><td  style="white-space:nowrap; text-align:right;" id="TBL-7-2-2"  
+class="td01"><span 
+class="cmti-10x-x-109">September 2000 - June 2004</span></td>
+</tr><tr  
+ style="vertical-align:baseline;" id="TBL-7-3-"><td  style="white-space:nowrap; text-align:left;" id="TBL-7-3-1"  
+class="td10">                                     &#x00A0;</td></tr></table>
+     </div></li></ul>
+<div 
+class="colorbox" id="colorbox3"><div class="minipage"><span 
+class="cmbx-12">Skills</span>
+</div></div>                                                                                                       
+                                                                                                       
+     <dl class="description"><dt class="description">
+<span 
+class="cmbx-10x-x-109">Languages:</span> </dt><dd 
+class="description">
+     Current
+     languages:
+     Bash
+     (six
+     years).
+     Basic
+     or
+     previous
+     knowledge
+     of
+     PHP,
+     Perl.
+     </dd><dt class="description">
+<span 
+class="cmbx-10x-x-109">Operating Systems:</span> </dt><dd 
+class="description">
+     Six
+     years
+     experience
+     in
+     use
+     and
+     administration
+     of
+     Linux;
+     four
+     years
+     experience
+     architecting
+     and
+     administering
+     production
+     Linux
+     servers
+     and
+     applications.
+     Primarily
+     CentOS/RedHat/Ubuntu
+     on
+     servers
+     and
+     AWS,
+     Arch
+     Linux
+     and
+     Gentoo
+     Linux
+     personally.
+     Experience
+     with
+                                                                                                       
+                                                                                                       
+     Vyatta
+     Network
+     OS/VyOS,
+     Cisco
+     CatOS
+     and
+     IOS.
+     </dd><dt class="description">
+<span 
+class="cmbx-10x-x-109">Software:</span> </dt><dd 
+class="description">
+     Many
+     Amazon
+     (AWS)
+     offerings.
+     Vault,
+     Consul,
+     Packer,
+     and
+     related
+     tools.
+     Jenkins.
+     GitLab.
+     Git.
+     Docker.
+     Ansible.
+     Puppet.
+     Graphite,
+     Logstash/Elasticsearch,
+     rsyslog,
+     Nagios/Zabbix/Icinga.
+     MySQL,
+     PostgreSQL.
+     Apache
+     httpd,
+     Nginx.
+     Former
+     experience
+     with
+     Solr,
+     Postfix,
+     ISC
+     BIND9,
+     ISC
+     dhcpd,
+     FreeRADIUS,
+     Asterisk,
+     OpenLDAP,
+     StrongSwan.
+     </dd><dt class="description">
+<span 
+class="cmbx-10x-x-109">Platforms:</span> </dt><dd 
+class="description">
+     AWS.                                                                                             
+                                                                                                       
+     Experience
+     with
+     many
+     datacenter
+     technologies:
+     Xen,
+     VMWare,
+     most
+     Enterprise-grade
+     server
+     hardware,
+     F5
+     Big-IP
+     Load
+     Balancers,
+     network
+     hardware,
+     embedded
+     devices,
+     Meru
+     and
+     BlueSocket
+     wireless
+     hardware.
+     Experience
+     in
+     datacenter
+     operations
+     and
+     physical
+     infrastructure
+     (copper/fiber/power)
+     management.</dd></dl>
+<div 
+class="colorbox" id="colorbox4"><div class="minipage"><span 
+class="cmbx-12">Open Source Projects and Contributions</span>
+</div></div>
+     <dl class="description"><dt class="description">
+ </dt><dd 
+class="description">
+     See
+     <a 
+href="http://resume.rstefanov.info" >resume.rstefanov.info</a>
+     for
+     highlights
+     or
+     <a 
+href="https://github.com/radoslav-stefanov" >https://github.com/radoslav-stefanov</a>.</dd></dl>
+ 
+</body></html> 
+
+                                                                                                       
+
+
