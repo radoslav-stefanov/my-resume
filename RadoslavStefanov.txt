@@ -28,6 +28,8 @@ Work Experience
         recovery.
     -   Platform migration from Leacy Ubuntu 6.06LTS to modern Ubuntu
         16.04LTS servers architecture.
+    -   Transition from Zabbix monitoring to fully HA and multi data
+        center Prometheus cluster.
 
 -   --------------------------- -------------------------------
       Reflective Solutions                              Sofia, BG
