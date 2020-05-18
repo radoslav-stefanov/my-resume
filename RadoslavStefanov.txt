@@ -28,8 +28,6 @@ Work Experience
         recovery.
     -   Platform migration from Leacy Ubuntu 6.06LTS to modern Ubuntu
         16.04LTS servers architecture.
-    -   Transition from Zabbix monitoring to fully HA and multi data
-        center Prometheus cluster.
 
 -   --------------------------- -------------------------------
       Reflective Solutions                              Sofia, BG
@@ -79,18 +77,18 @@ Education
 
 Skills
 
- Languages: 
+Languages:
     Current languages: Bash (six years). Basic or previous knowledge of
     PHP, Perl.
 
- Operating Systems: 
+Operating Systems:
     Six years experience in use and administration of Linux; four years
     experience architecting and administering production Linux servers
     and applications. Primarily CentOS/RedHat/Ubuntu on servers and AWS,
     Arch Linux and Gentoo Linux personally. Experience with Vyatta
     Network OS/VyOS, Cisco CatOS and IOS.
 
- Software: 
+Software:
     Many Amazon (AWS) offerings. Vault, Consul, Packer, and related
     tools. Jenkins. GitLab. Git. Docker. Ansible. Puppet. Graphite,
     Logstash/Elasticsearch, rsyslog, Nagios/Zabbix/Icinga. MySQL,
@@ -98,7 +96,7 @@ Skills
     Postfix, ISC BIND9, ISC dhcpd, FreeRADIUS, Asterisk, OpenLDAP,
     StrongSwan.
 
- Platforms: 
+Platforms:
     AWS. Experience with many datacenter technologies: Xen, VMWare, most
     Enterprise-grade server hardware, F5 Big-IP Load Balancers, network
     hardware, embedded devices, Meru and BlueSocket wireless hardware.
@@ -107,6 +105,5 @@ Skills
 
 Open Source Projects and Contributions
 
- 
     See resume.rstefanov.info for highlights or
     https://github.com/radoslav-stefanov.
