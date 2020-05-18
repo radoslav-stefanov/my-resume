@@ -26,7 +26,7 @@ Work Experience
         management and provisioning for all new server deployments.
     -   Docker implementation, automation, upgrade and disaster
         recovery.
-    -   Platform migration from Leacy Ubuntu 6.06LTS to modern Ubuntu
+    -   Platform migration from Legacy Ubuntu 6.06LTS to modern Ubuntu
         16.04LTS servers architecture.
 
 -   --------------------------- -------------------------------
